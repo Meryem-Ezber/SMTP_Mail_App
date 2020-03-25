@@ -1,2 +1,2 @@
-# SMTP_Mail_Uygulamas-
+# SMTP_Mail_Uygulaması
 Bilgisayar Ağları Dersi Proje Ödevi
